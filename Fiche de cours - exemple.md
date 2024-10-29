@@ -37,18 +37,18 @@ Je suis une étudiante passionnée par le design interactif et le développement
 
 ### Sujet de Projet
 
-- **Titre du projet : (Titre provisoire) Lita de Thésée**   
-- **Description du projet (environ 150 mots) : Les gens vont et viennent à mes côtés. On fait connaissance lorsqu'on fréquente la même école ou qu'on participe à un échange, puis chacun suit son propre chemin ou retourne dans son pays d'origine. Toutes ces rencontres laissent de petites traces sur moi : les conversations que j'ai eues, les connaissances que j'ai acquises, leur musique ou leur nourriture préférée, ainsi que nos divergences d'opinions... Avec toutes ces nouveautés, je suis un peu différente du passé. Je suis la même personne qu'il y a 10 ans, mais j'ai beaucoup changé, et je serai encore la même dans 10 ans. Je change avec le temps. Mais cela a toujours été moi, et cela le sera toujours, même lorsque vous êtes à mes côtés ou lorsque vous ne l'êtes pas. Mon but est de faire de ces cours un art interactif et visuel.** 
+- **Titre du projet** : (Titre provisoire) *Lita de Thésée*
+- **Description du projet (environ 150 mots) :** Les gens vont et viennent à mes côtés. On fait connaissance lorsqu'on fréquente la même école ou qu'on participe à un échange, puis chacun suit son propre chemin ou retourne dans son pays d'origine. Toutes ces rencontres laissent de petites traces sur moi : les conversations que j'ai eues, les connaissances que j'ai acquises, leur musique ou leur nourriture préférée, ainsi que nos divergences d'opinions... Avec toutes ces nouveautés, je suis un peu différente du passé. Je suis la même personne qu'il y a 10 ans, mais j'ai beaucoup changé, et je serai encore la même dans 10 ans. Je change avec le temps. Mais cela a toujours été moi, et cela le sera toujours, même lorsque vous êtes à mes côtés ou lorsque vous ne l'êtes pas. Mon but est de faire de ces cours un art interactif et visuel.
 
 ### Thématiques de Recherche
 
-- **Thématiques que vous souhaitez explorer : Les mythes, lores et Religions**   
-- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) : Les mythes reflètent les angoisses, les préoccupations et les souffrances de l'humanité. Ils illustrent les luttes et les dilemmes qui jalonnent notre existence. Ils accompagnent l'humanité depuis ses débuts. La foi, la religion et l'espoir, tels qu'ils se manifestent dans la mythologie, constituent également des aspects indissociables de l'être humain. Ce qui est surprenant, c'est que l'angoisse qu'ils véhiculent, présente depuis des milliers d'années, persiste encore aujourd'hui, même pour moi, née en 2001, au début du 21e siècle. En tant que membre de la génération Z, j'éprouve des difficultés à reconstruire ces récits communs et bien connus à l'aide des nouvelles technologies.** 
+- **Thématiques que vous souhaitez explorer :** ***Les mythes, lores et Religions*** 
+- **Pourquoi cette thématique vous intéresse-t-elle ? (environ 100 mots) :** Les mythes reflètent les angoisses, les préoccupations et les souffrances de l'humanité. Ils illustrent les luttes et les dilemmes qui jalonnent notre existence. Ils accompagnent l'humanité depuis ses débuts. La foi, la religion et l'espoir, tels qu'ils se manifestent dans la mythologie, constituent également des aspects indissociables de l'être humain. Ce qui est surprenant, c'est que l'angoisse qu'ils véhiculent, présente depuis des milliers d'années, persiste encore aujourd'hui, même pour moi, née en 2001, au début du 21e siècle. En tant que membre de la génération Z, j'éprouve des difficultés à reconstruire ces récits communs et bien connus à l'aide des nouvelles technologies.
 
 ## Outils et Techniques
 
-- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) : HTML, CSS, JavaScript(JQuery), p5.js, Figma, Photoshop, Premier Pro, Blender**   
-- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter : Unity, REACT et autres langages de codage utilisés dans le codage créatif.** 
+- **Outils que vous comptez utiliser (logiciels, langages de programmation, etc.) :** HTML, CSS, JavaScript(JQuery), p5.js, Figma, Photoshop, Premier Pro, Blender  
+- **Techniques spécifiques que vous souhaitez maîtriser ou expérimenter :** Unity, REACT et autres langages de codage utilisés dans le codage créatif.
 
 ## Références Artistiques
 
