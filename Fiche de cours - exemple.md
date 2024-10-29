@@ -18,17 +18,17 @@ Je suis une étudiante passionnée par le design interactif et le développement
 
 ### Compétences :
 
-- **CODING** : 14/20 - "Je maîtrise les bases de JavaScript et j'ai des connaissances en HTML et CSS. Je travaille régulièrement sur des projets indépendants et je suis toujours prêt à apprendre de nouvelles choses sur le codage. J'adore coder !"
+- **CODING** : 14/20 - Je maîtrise les bases de JavaScript et j'ai des connaissances en HTML et CSS. Je travaille régulièrement sur des projets indépendants et je suis toujours prêt à apprendre de nouvelles choses sur le codage. J'adore coder !
   
-- **GIT ET VERSIONNING** : 13/20 - "J'ai utilisé Git pour la gestion de versions de mes projets, mais je ne me sens pas encore totalement à l'aise."
+- **GIT ET VERSIONNING** : 13/20 - J'ai utilisé Git pour la gestion de versions de mes projets, mais je ne me sens pas encore totalement à l'aise.
   
-- **INTERACTIVITÉ ET RENDU TEMPS RÉEL** : 11/20 - "Je commence à expérimenter avec des frameworks comme p5.js., Node.js, REACT, etc."
+- **INTERACTIVITÉ ET RENDU TEMPS RÉEL** : 11/20 - Je commence à expérimenter avec des frameworks comme p5.js., Node.js, REACT, etc.
   
-- **DESIGN GRAPHIQUE ET MÉDIAS INTERACTIFS** : 18/20 - "Je maîtrise bien les outils courants tels que Photoshop, Figma, Illustrator, InDesign, Premiere Pro et After Effects, ainsi que des logiciels comme Clip Studio, Blender et TV Paint. En tant qu'ancien étudiant en animation, je peux affirmer avec certitude que mes compétences en dessin sont les meilleures de l'école. De plus, j'ai une connaissance approfondie et un grand intérêt pour l'animation, le cinéma, les médias vidéo et le design, ce qui, à mon avis, constitue un atout majeur en tant que designer."
+- **DESIGN GRAPHIQUE ET MÉDIAS INTERACTIFS** : 18/20 - Je maîtrise bien les outils courants tels que Photoshop, Figma, Illustrator, InDesign, Premiere Pro et After Effects, ainsi que des logiciels comme Clip Studio, Blender et TV Paint. En tant qu'ancien étudiant en animation, je peux affirmer avec certitude que mes compétences en dessin sont les meilleures de l'école. De plus, j'ai une connaissance approfondie et un grand intérêt pour l'animation, le cinéma, les médias vidéo et le design, ce qui, à mon avis, constitue un atout majeur en tant que designer.
   
-- **INSTALLATION ET MISE EN ESPACE** : 14/20 - "J'ai travaillé sur quelques projets d'installation artistique il y a 3-4 ans. Même si je n'ai pas travaillé récemment dans ce domaine, j'y porte toujours un grand intérêt et une grande affection. Vous pouvez consulter mon portfolio de cette période ici."
+- **INSTALLATION ET MISE EN ESPACE** : 14/20 - J'ai travaillé sur quelques projets d'installation artistique il y a 3-4 ans. Même si je n'ai pas travaillé récemment dans ce domaine, j'y porte toujours un grand intérêt et une grande affection. Vous pouvez consulter mon portfolio de cette période ici.
   
-- **PRÉSENTATION ET ARGUMENTATION** : 13/20 - "Je suis capable de présenter mes idées de manière claire, mais je souhaite m'améliorer dans l'art de convaincre. Mon principal obstacle est que je ne maîtrise pas encore parfaitement le français, et j'en suis conscient. Cependant, je suis clair sur ce que je veux exprimer dans mon travail et dans mes recherches, donc je ne pense pas qu'il y aura de problèmes tant que j'améliore ma capacité à le transmettre. Par ailleurs, je parle également quatre langues : anglais, français, coréen et japonais."
+- **PRÉSENTATION ET ARGUMENTATION** : 13/20 - Je suis capable de présenter mes idées de manière claire, mais je souhaite m'améliorer dans l'art de convaincre. Mon principal obstacle est que je ne maîtrise pas encore parfaitement le français, et j'en suis conscient. Cependant, je suis clair sur ce que je veux exprimer dans mon travail et dans mes recherches, donc je ne pense pas qu'il y aura de problèmes tant que j'améliore ma capacité à le transmettre. Par ailleurs, je parle également quatre langues : anglais, français, coréen et japonais.
 
 
 ## Projet et Thématique de Recherche
